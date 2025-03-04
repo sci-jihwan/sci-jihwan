@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @sci-jihwan
-- 👀 I’m interested in soccer, Big data and movie 
-- 🌱 I’m currently learning Processing
-- 💞️ I’m looking to collaborate on security app.
-- 📫 How to reach me, I won't tell you
+JBSH 31st
+KENTECH 3rd
 
 <!---
 sci-jihwan/sci-jihwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
